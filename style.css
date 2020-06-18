@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(214, 157, 255);
+    font-family: 'Poppins';
+    font-size: large;
+}
+.d{
+    background-color: rgb(63, 63, 63);
+    color: rgb(135, 228, 214);
+    height: 100px;
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+}
+input{
+
+    padding-top: 60px;
+    padding-left: 8px;
+
+}
+button{
+    position: relative;
+    left: 800px;
+    bottom: 350px;
+}
+img{
+    height: 500px;
+    width: 600px;
+    border: 1px solid black;
+}
+label{
+    padding-left: 10px;
+}
+p{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+
