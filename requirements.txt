@@ -1,6 +1,6 @@
 numpy==1.18.3
 tensorflow==2.2.0-rc4
-opencv-python==4.2.0
+opencv-python==4.2.0.34
 flask==1.1.2
 werkzeug==1.0.1
 gevent==20.6.2
